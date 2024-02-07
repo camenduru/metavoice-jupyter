@@ -18,7 +18,8 @@ https://themetavoice.xyz/
 https://huggingface.co/metavoiceio/metavoice-1B-v0.1
 
 ### 🖼 Output
-![Screenshot 2024-02-07 070312](https://github.com/camenduru/metavoice-jupyter/assets/54370274/cdce16b8-45e6-4da9-8870-b846492230bf)
+
+https://github.com/camenduru/metavoice-jupyter/assets/54370274/451eea70-17d2-49d2-a692-6249c7525599
 
 ### 🏢 Sponsor
 https://modelslab.com
